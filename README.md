@@ -49,8 +49,8 @@ Dim_Products
 Dim_Date
 Dim_Location
 
-✔ One-to-many relationships
-✔ Optimized for performance and scalability
+One-to-many relationships
+Optimized for performance and scalability
 
 DAX Measures
 Core Metrics:
@@ -108,7 +108,7 @@ Target high-value customer segments
 Optimize strategies in underperforming regions
 Leverage seasonality for forecasting and planning
 
-🛠️ Tools & Technologies
+Tools & Technologies
 Power BI
 DAX (Data Analysis Expressions)
 Power Query
